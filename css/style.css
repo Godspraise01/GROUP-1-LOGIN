@@ -342,6 +342,7 @@ button:hover {
   height: 55px;
   background: transparent;
   padding: 0 7px 0 43px;
+  margin: auto;
 }
 
 
@@ -375,6 +376,7 @@ button:hover {
   left: 0;
   padding-left: 13px;
   padding-top: 3px;
+  margin: auto;
 }
 
 .focus-input100::before {
